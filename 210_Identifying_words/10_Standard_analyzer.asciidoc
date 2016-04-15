@@ -16,6 +16,6 @@ field. ((("standard analyzer"))) If we were to reimplement the  `standard` analy
 --------------------------------------------------
 
 In <<token-normalization>> and <<stopwords>>, we talk about the
-`lowercase`, and `stop` _token filters_, but for the moment, let's focus on
+`lowercase` and `stop` _token filters_, but for the moment, let's focus on
 the `standard` _tokenizer_.
 
